@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Prajakta102/realtime_code_sharing/static/css/main.3672af82.css",
-    "main.js": "/Prajakta102/realtime_code_sharing/static/js/main.33683c38.js",
-    "static/js/787.9c339605.chunk.js": "/Prajakta102/realtime_code_sharing/static/js/787.9c339605.chunk.js",
-    "index.html": "/Prajakta102/realtime_code_sharing/index.html",
-    "main.3672af82.css.map": "/Prajakta102/realtime_code_sharing/static/css/main.3672af82.css.map",
-    "main.33683c38.js.map": "/Prajakta102/realtime_code_sharing/static/js/main.33683c38.js.map",
-    "787.9c339605.chunk.js.map": "/Prajakta102/realtime_code_sharing/static/js/787.9c339605.chunk.js.map"
+    "main.css": "/realtime_code_sharing/static/css/main.3672af82.css",
+    "main.js": "/realtime_code_sharing/static/js/main.d38c2254.js",
+    "static/js/787.9c339605.chunk.js": "/realtime_code_sharing/static/js/787.9c339605.chunk.js",
+    "index.html": "/realtime_code_sharing/index.html",
+    "main.3672af82.css.map": "/realtime_code_sharing/static/css/main.3672af82.css.map",
+    "main.d38c2254.js.map": "/realtime_code_sharing/static/js/main.d38c2254.js.map",
+    "787.9c339605.chunk.js.map": "/realtime_code_sharing/static/js/787.9c339605.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3672af82.css",
-    "static/js/main.33683c38.js"
+    "static/js/main.d38c2254.js"
   ]
 }
